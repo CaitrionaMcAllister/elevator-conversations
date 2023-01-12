@@ -1,0 +1,225 @@
+{
+    "description": "Elevator Conversations, grouped by Conversation genre/category",
+    "conversationData": [
+      {
+        "genre": "Greetings",
+        "category":"0",
+        "colourPalette": "#D5D8DC",
+        "participantCount":"10",
+        "content": [
+          "That's good",
+          "Thank you",
+          "Bye",
+          "Hello",
+          "Have a beatiful day though yeah",
+          "Hi ya",
+          "You alright?",
+          "How are you?",
+          "Oh hi!",
+          "Alright, see you later",
+          "Fancy seeing you here",
+          "Hiya, I missed you",
+          "I have to run but i'll see you soon"
+        ]
+      },
+      {
+        "genre": "Work",
+        "category":"1",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"8",
+        "content": [
+          "I've just got to do work",
+          "and then she wanted to look over her portfolio",
+          "Some of their projects are kind of good",
+          "It's been rescheduled",
+          "I need to prove your work",
+          "Content for all three of my views",
+          "My mum just did this job in NorthEast",
+          "I don't know how regular they are like weekly sessions online",
+          "I have a few deadlines for next week",
+          "I love my job"
+        ]
+      },
+      {
+        "genre": "Relationships",
+        "category":"2",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"8",
+        "content": [
+          "I would say like Max Verstappens girlfriend",
+          "Then she just won't be invited",
+          "Why do i always see you's two together",
+          "Juliana, over there",
+          "Sameuel, no, not that",
+          "I just get thier names mixed up",
+          "My sisters getting married but the bridemaids dresses are a bit garish",
+          "Imagine being someone's ex",
+          "I love my relationship",
+          "I'm going to break up with him I think"
+        ]
+      },
+      {
+        "genre": "Sex and Intimacy",
+        "category":"3",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"1",
+        "content": [
+          "for just a shag",
+          "only for tonight though",
+          "I bought this vibrator",
+          "he came round at about 11 but left really early in the morning",
+          "I really enjoyed her company",
+          "I think they were fucking in the club",
+          "I'm scared of getting an STD",
+          "We're waiting till marriage",
+          "it was just cuddling to be honest",
+          "she got quite big boobs though"
+        ]
+      },
+      {
+        "genre": "History & Culture",
+        "category":"4",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"2",
+        "content": [
+          "An accent like what the fuck",
+          "When they founded",
+          "nope there's a book in the library about that topic",
+          "it's all to do with my own culture",
+          "there has never ben anything like this before",
+          "oh there is a story about that somehwere",
+          "my mum makes really good traditional nigerian food",
+          "it's made out of a fabric they use in lithuania",
+          "i'm not sure, i kind of found traditional methods much longer",
+          "my dad used to go to this spot when he was younger, we should try it"
+        ]
+      },
+      {
+        "genre": "Thoughts & Feelings",
+        "category":"5",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"7",
+        "content": [
+          "It's not exactly what I wanted but i'll make do",
+          "I'm just not feeling tired enough",
+          "Urgh I don't get this",
+          "It's making me really want to",
+          "Besides I think you would be happy",
+          "I just want to get home now",
+          "You know what yeah it's fine yeah",
+          "I'm just not sure how I feel about this",
+          "let me see what he's like tomorrow and we'll see",
+          "maybe they'll change their mind about it, i'm not sure"
+        ]
+      },
+      {
+        "genre": "Entertainment & Leisure",
+        "category":"6",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"4",
+        "content": [
+          "I mean the making of this film just shows",
+          "You can do it on a bigger screen",
+          "I'm going to need to make a cuppa",
+          "I want to visit yeah",
+          "I watched this movie called Bubbble that I think you'll like",
+          "It was only a game to be fair",
+          "I wanted to win so badly",
+          "Did you ever go to see it in the cinema?",
+          "The round on sports was so difficult",
+          "Let's just go grab a drink after"
+        ]
+      },
+      {
+        "genre": "Education",
+        "category":"7",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"2",
+        "content": [
+          "I haven't really learned much though",
+          "whens the next lesson, I can't remember",
+          "Have you not finished the work for that project yet?",
+          "I have a case study in mind if you want to have a look?",
+          "show me what your idea is and we can work together",
+          "there's a shop down the road from me where you can get supplies for that project",
+          "I have until monday to get it done before we move onto the next one",
+          "I know a software using 3D modelling which would work",
+          "I just have university next week, that's all",
+          "I just handed in my final major project and moved on"
+        ]
+      },
+      {
+        "genre": "Faith & Religion",
+        "category":"8",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"2",
+        "content": [
+          "Bless you",
+          "Thank God",
+          "oh Jesus Christ",
+          "I have church on Sundays at 10am though",
+          "that church down the road has coffee",
+          "I have a bible at home",
+          "that's a rich topic to discuss about religion",
+          "it's something that can guide you but also cloud your judgement",
+          "I have these herbs that I literally swear to God by",
+          "oh my gosh!",
+          "what the hell!"
+        ]
+      },
+      {
+        "genre": "Everdaylife",
+        "category":"9",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"4",
+        "content": [
+          "Leave the keys at the door when you're home",
+          "I need to buy petrol today",
+          "What's your plan for today then?",
+          "I'm getting this tomorrow morning",
+          "I have it planned for later this weekend", 
+          "you should come with us then",
+          "it's happening later this month",
+          "we should definitely try it out",
+          "move the sofa in the other direction",
+          "my brother hasn't got any plates at home, he just moved house"
+        ]
+      },
+        {
+        "genre": "Health",
+        "category":"10",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"3",
+        "content": [
+          "I'm just not feeling very well",
+          "It was the worst cough ever",
+          "Covid made me so ill",
+          "imagine he died though",
+          "I had to take so much medicine for it",
+          "are you feeling any better though?",
+          "stay still so you don't hurt yourself anymore",
+          "oh my gosh, my funny bone",
+          "no, I don't see my therapist this week",
+          "I'm actually going crazy, i need to relax"
+        ]
+      },
+      {
+        "genre": "Other",
+        "category":"11",
+        "colourPalette": "'#23231A', '#322F20', '#6A5837', '#AEBD93', '#D7C9AA'",
+        "participantCount":"4",
+        "content": [
+          "There isn't a way back there",
+          "Close doens't really cut it though to be honest",
+          "Magic, magic!",
+          "huh...",
+          "that's stinky",
+          "we'll just have to pick it up then",
+          "just give me one sec",
+          "can you help me crack this open",
+          "just do that one facing forward",
+          "the blue one was most popular"
+        ]
+      }
+    ]
+  }
